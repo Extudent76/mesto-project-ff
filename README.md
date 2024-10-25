@@ -1,3 +1,3 @@
 # Проектная работа Mesto
 
-https://github.com/Extudent76/mesto-project-ff
+https://extudent76.github.io/mesto-project-ff/

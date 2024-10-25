@@ -1,5 +1,3 @@
-let userId; // Объявляем переменную userId
-
 // Функция создания карточки
 export function createCard(cardData, onDeleteCard, onImageClick, onLikeClick, userId) {
   const cardTemplate = document.querySelector("#card-template").content;
